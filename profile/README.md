@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/logo.png" width="180" alt="Zarvus Agritech" />
+<img src="logo.png" width="180" alt="Zarvus Agritech" />
 
 # Zarvus Agritech
 
