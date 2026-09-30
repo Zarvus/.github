@@ -4,8 +4,6 @@
 
 # Zarvus Agritech
 
-**ERP agrícola B2B — tecnologia para gestão de fazendas e agronegócio.**
-
 <img src="https://img.shields.io/badge/status-em%20desenvolvimento-2E7D32?style=for-the-badge&labelColor=1B3A1E" alt="Status: em desenvolvimento" />
 
 </div>
